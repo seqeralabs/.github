@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to the <a href="https://seqera.io/">Seqera Labs</a> community!</h1><br>
+<h1 align="center">Welcome to the <a href="https://seqera.io/">Seqera</a> on GitHub</h1><br>
 
 <p align="center">
   <a href="https://seqera.io/">
@@ -20,7 +20,7 @@
   <a href="https://multiqc.info">multiqc.info</a>
 </p>
 
-Seqera Labs is the leading provider of open source workflow orchestration software needed for data pipeline processing, cloud infrastructure, and secure collaboration.
+Seqera is the leading provider of open source workflow orchestration software needed for data pipeline processing, cloud infrastructure, and secure collaboration.
 
 We created Nextflow frustrated with the challenge of developing and sharing analysis pipelines across infrastructure. By prioritizing a seamless user experience, the project quickly grew from inception to thousands of active users. Along the way, we've defined a new approach to data pipelines, with containerized workloads that make the cloud accessible to the next generation of scientists.
 
