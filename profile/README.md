@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://seqera.io/">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seqeralabs/logos/master/seqera-logo.png">
+        <source media="(prefers-color-scheme: dark)" width="350" srcset="https://raw.githubusercontent.com/seqeralabs/logos/master/seqera-logo-and-tagline-dark.png">
         <img alt="Seqera Labs Logo" width="350" src="https://raw.githubusercontent.com/seqeralabs/logos/master/seqera-logo-grey.png">
     </picture>
   </a>
