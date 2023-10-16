@@ -1,6 +1,3 @@
-
-<h1 align="center">Welcome to <a href="https://seqera.io/">Seqera</a> on GitHub</h1><br>
-
 <p align="center">
   <a href="https://seqera.io/">
     <picture>
