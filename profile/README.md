@@ -4,19 +4,19 @@
 <p align="center">
   <a href="https://seqera.io/">
     <picture>
-        <source media="(prefers-color-scheme: dark)" width="350" srcset="https://raw.githubusercontent.com/seqeralabs/logos/master/seqera-logo-and-tagline-dark.png">
-        <img alt="Seqera Labs Logo" width="350" src="https://raw.githubusercontent.com/seqeralabs/logos/master/seqera-logo-grey.png">
+        <source media="(prefers-color-scheme: dark)" width="350" srcset="images/seqera_darkbg.png">
+        <img alt="Seqera Labs Logo" width="350" src="images/seqera.png">
     </picture>
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/nextflow-io/">@nextflow-io</a> | 
+  <a href="https://github.com/nextflow-io/">@nextflow-io</a> |
   <a href="https://github.com/MultiQC">@MultiQC</a>
   <br>
-  <a href="https://seqera.io">seqera.io</a> | 
-  <a href="https://nextflow.io">nextflow.io</a> | 
+  <a href="https://seqera.io">seqera.io</a> |
+  <a href="https://nextflow.io">nextflow.io</a> |
   <a href="https://multiqc.info">multiqc.info</a>
 </p>
 
