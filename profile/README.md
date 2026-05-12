@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://seqera.io/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../assets/seqera-logo-light-green.svg">
-      <source media="(prefers-color-scheme: light)" srcset="../assets/seqera-logo-dark-green.svg">
-      <img src="../assets/seqera-logo-dark-green.svg" alt="Seqera Logo" width="400"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seqeralabs/.github/master/assets/seqera-logo-light-green.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seqeralabs/.github/master/assets/seqera-logo-dark-green.svg">
+      <img src="https://raw.githubusercontent.com/seqeralabs/.github/master/assets/seqera-logo-dark-green.svg" alt="Seqera Logo" width="400"/>
     </picture>
   </a>
 </div>
